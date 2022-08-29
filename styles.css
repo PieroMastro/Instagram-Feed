@@ -45,3 +45,7 @@ div.post .post-header div:last-child {
     color: rgb(148, 148, 148);
     padding-right: 10px;
 }
+
+div.footer{
+    margin-bottom: 40px;
+}
